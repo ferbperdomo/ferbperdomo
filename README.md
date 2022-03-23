@@ -4,7 +4,7 @@
 
 I’ll help you translate your amazing and complex ideas into code. I am passionate about Backend and I always seek for new Frontend trends.
 
-My stack: 
+**My stack: 
 
 | Frontend    |  Backend     | More |
 | :-------- | :------- | :----------- | 
