@@ -1,4 +1,4 @@
-# Hello, world <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px">
+# Hello, world <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30px">
 
 ## I'm Cristian, an English Teacher who learnt to code ✨ 
 
