@@ -1,6 +1,6 @@
 # Hello, world <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30px">
 
-## I'm Cristian, an English teacher who learnt to code ✨ 
+## I'm Cristian, an English teacher who learned to code ✨ 
 
 I’ll help you translate your amazing and complex ideas into code. I am passionate about Backend and I always seek for new Frontend trends.
 
